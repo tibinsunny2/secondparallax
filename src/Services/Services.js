@@ -1,0 +1,9 @@
+module.exports.pictures={
+    images:[
+{
+    id:1,
+    url:"https://picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg",
+    desc:"beauty"
+},
+    ]
+}
